@@ -2,7 +2,7 @@
 The set of functions for using with Arduino core for the ESP32 which allow to get non-blocking/async ADC.
 
 ### ALL CODE BELOW WAS "STOLEN" FROM ORIGINAL REPOSITORY https://github.com/espressif/arduino-esp32
-# Please inform me if this action violate any Copyright.
+### Please inform me if this action violate any Copyright.
  
  Otherwise, fill free to use this code.
   
