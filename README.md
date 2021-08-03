@@ -1,5 +1,5 @@
 # ESP32-async-ADC
-The set of functions which allow to use non-blocking/async ADC with version of Arduino core for ESP32 upper than 1.0.6.
+The set of functions allow to use non-blocking/async ADC with version of Arduino core for ESP32 upper than 1.0.6.
 
 ### ALL CODE WAS "STOLEN" FROM ORIGINAL REPOSITORY https://github.com/espressif/arduino-esp32
 ### Please inform me if this action violate any Copyright.
