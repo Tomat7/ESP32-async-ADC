@@ -7,7 +7,7 @@ ESP32 non-blocking ADC functions
  But these functions are very useful for "ASYNC" and "NO-WAIT" ADC reading.
  I just copied code from Realease 1.0.4 of ESP32 Arduino to use it in my library.
  
- Please inform me if this action violate any Copyright.
+ ##Please inform me if this action violate any Copyright.##
  
  Otherwise, fill free to use this code.
  
