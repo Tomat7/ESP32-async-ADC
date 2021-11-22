@@ -8,7 +8,7 @@ The set of functions allow to use non-blocking/async ADC with version of Arduino
   
  Functions **adcStart/adcBusy/adcEnd** was removed after 1.0.4 RELEASE of "Arduino core for the esp32".
  But these functions are very useful for ASYNC/NO-WAIT ADC reading.
- I just copied code from Realease 1.0.4 of ESP32 Arduino to use it in my library.
+ I just copied code from Realease 1.0.4 of ESP32 Arduino to use it in my sketch.
   
  Just put both files to folder of your Arduino sketch and put #include "esp32-adc-nowait.h" in begin of your .ino file.
  
